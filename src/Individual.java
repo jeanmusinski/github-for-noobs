@@ -1,4 +1,4 @@
-// hello!
+// hello! So good to see you!
 // goodbye!
 import java.util.Random;
 
