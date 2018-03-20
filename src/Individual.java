@@ -1,4 +1,5 @@
 // hello!
+// goodbye!
 import java.util.Random;
 
 public class Individual {
