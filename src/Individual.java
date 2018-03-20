@@ -1,5 +1,5 @@
 // hello! So good to see you!
-// goodbye!
+// goodbye! So sad to see you go!
 import java.util.Random;
 
 public class Individual {
